@@ -1,6 +1,6 @@
 {
 	"version": "0.1",
-	"download": "",
+	"download": "https://crismod.ml",
 	"update": [
 		{
 			"languaje": "es",
