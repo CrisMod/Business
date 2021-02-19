@@ -1,5 +1,5 @@
 {
-	"version": "2.21.3.13-1",
+	"version": "8.1",
 	"download": "https://crismod.ml",
 	"update": [
 		{
