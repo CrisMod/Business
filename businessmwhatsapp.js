@@ -1,5 +1,5 @@
 {
-	"version": "0.1",
+	"version": "8.0",
 	"download": "http://motriael.com/73GQ",
 	"update": [
 		{
