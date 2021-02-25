@@ -1,6 +1,6 @@
 {
-	"version": "8.0",
-	"download": "https://crismod.ml",
+	"version": "8.1",
+	"download": "http://anthargo.com/17wF",
 	"update": [
 		{
 			"languaje": "es",
@@ -12,11 +12,11 @@
 		},
 		{
 			"languaje": "pt",
-			"changelog": "https://raw.githubusercontent.com/CrisMod/Business/main/changelog-pt.html"
+			"changelog": "https://raw.githubusercontent.com/CrisMod/Business/main/changelog-en.html"
 		},
 		{
 			"languaje": "pt-BR",
-			"changelog": "https://raw.githubusercontent.com/CrisMod/Business/main/changelog-pt.html"
+			"changelog": "https://raw.githubusercontent.com/CrisMod/Business/main/changelog-en.html"
 		}
 	]
 }
