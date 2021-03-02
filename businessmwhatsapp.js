@@ -1,6 +1,6 @@
 {
-	"version": "8.1",
-	"download": "http://anthargo.com/17wF",
+	"version": "8.2",
+	"download": "http://anthargo.com/6typ",
 	"update": [
 		{
 			"languaje": "es",
