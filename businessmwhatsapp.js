@@ -1,6 +1,6 @@
 {
-	"version": "8.2",
-	"download": "http://anthargo.com/6typ",
+	"version": "8.3",
+	"download": "http://apticirl.com/8dkJ",
 	"update": [
 		{
 			"languaje": "es",
