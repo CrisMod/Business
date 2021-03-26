@@ -1,6 +1,6 @@
 {
-	"version": "2.21.3.13 v8.3",
-	"download": "http://anthargo.com/6typ",
+	"version": "2.21.3.19 B380",
+	"download": "http://aciterar.com/1jmp",
 	"update": [
 		{
 			"languaje": "es",
