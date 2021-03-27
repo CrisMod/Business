@@ -1,5 +1,5 @@
 {
-	"version": "2.21.3.19 B380",
+	"version": "2.21.3.19 v380",
 	"download": "http://aciterar.com/1jmp",
 	"update": [
 		{
