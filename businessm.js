@@ -1,5 +1,5 @@
 {
-	"version": "2.21.3.19 v9.1",
+	"version": "2.21.3.19 v9.2",
 	"download": "http://aciterar.com/1jmp",
 	"update": [
 		{
