@@ -1,6 +1,6 @@
 {
 	"version": "9.1",
-	"download": "http://aciterar.com/1jmp",
+	"download": "http://aciterar.com/5Myv",
 	"update": [
 		{
 			"languaje": "es",
