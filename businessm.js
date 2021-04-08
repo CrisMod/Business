@@ -1,6 +1,6 @@
 {
-	"version": "9.1",
-	"download": "http://aciterar.com/5Myv",
+	"version": "9.2",
+	"download": "http://pheecith.com/80S",
 	"update": [
 		{
 			"languaje": "es",
