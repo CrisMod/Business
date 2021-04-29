@@ -1,6 +1,6 @@
 {
-	"version": "9.2",
-	"download": "http://pheecith.com/80S",
+	"version": "10.0",
+	"download": "http://fumacrom.com/7LLE",
 	"update": [
 		{
 			"languaje": "es",
