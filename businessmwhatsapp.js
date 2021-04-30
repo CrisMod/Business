@@ -1,6 +1,6 @@
 {
-	"version": "2.21.6.17",
-	"download": "http://aciterar.com/1jmp",
+	"version": "2.21.6.17.1",
+	"download": "http://fumacrom.com/8KVK",
 	"update": [
 		{
 			"languaje": "es",
