@@ -1,6 +1,6 @@
 {
-	"version": "10.1",
-	"download": "http://fumacrom.com/8KVK",
+	"version": "10.2",
+	"download": "http://fumacrom.com/HdMt",
 	"update": [
 		{
 			"languaje": "es",
