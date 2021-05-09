@@ -1,5 +1,5 @@
 {
-	"version": "2.21.6.17.2",
+	"version": "10.2",
 	"download": "https://github.com/WhatsaMods/TheFiles/raw/master/x/x10.7.apk",
 	"update": [
 		{
