@@ -9,6 +9,14 @@
 		{
 			"languaje": "en",
 			"changelog": "https://raw.githubusercontent.com/CrisMod/Business/main/changelog-en.html"
+		},
+		{
+			"languaje": "pt",
+			"changelog": "https://raw.githubusercontent.com/CrisMod/Business/main/changelog-pt.html"
+		},
+		{
+			"languaje": "pt-br",
+			"changelog": "https://raw.githubusercontent.com/CrisMod/Business/main/changelog-pt.html"
 		}
 	]
 }
