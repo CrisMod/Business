@@ -4,11 +4,19 @@
 	"update": [
 		{
 			"languaje": "es",
-			"changelog": "http://webs.redirectme.net/mod/x-cl-es-d.html"
+			"changelog": "https://raw.githubusercontent.com/CrisMod/Business/main/changelog-es.d.html"
 		},
 		{
 			"languaje": "en",
-			"changelog": "http://webs.redirectme.net/mod/x-cl-en-d.html"
+			"changelog": "https://raw.githubusercontent.com/CrisMod/Business/main/changelog-en.d.html"
+		},
+		{
+			"languaje": "pt",
+			"changelog": "https://raw.githubusercontent.com/CrisMod/Business/main/changelog-pt.d.html"
+		},
+		{
+			"languaje": "pt-br",
+			"changelog": "https://raw.githubusercontent.com/CrisMod/Business/main/changelog-pt.d.html"
 		}
 	]
 }
