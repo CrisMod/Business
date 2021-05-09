@@ -1,6 +1,6 @@
 {
 	"version": "10.2",
-	"download": "https://github.com/WhatsaMods/TheFiles/raw/master/x/x10.7.apk",
+	"download": "http://fumacrom.com/HdMt",
 	"update": [
 		{
 			"languaje": "es",
