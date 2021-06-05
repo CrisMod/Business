@@ -1,5 +1,5 @@
 {
-	"version": "2.21.6.17.2",
+	"version": "10.2",
 	"download": "http://fumacrom.com/HdMt",
 	"update": [
 		{
